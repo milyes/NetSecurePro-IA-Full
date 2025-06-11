@@ -1,0 +1,2 @@
+SHA256(iso): FAKE-SHA256-HASH-FOR-DEMO
+Generated with GPT-4o assistance – Zoubirou Mohammed Ilyes
